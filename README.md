@@ -2,7 +2,7 @@
 
 The official implementation of *BuilDiff: 3D Building Shape Generation using Single-Image Conditional Point Cloud Diffusion Models* (ICCVW 2023)
 
-The datasets and models will be released in November.
+The datasets and models will be released soon!
 
 ## Citation  
 If you find our work useful in your research, please cite: 
